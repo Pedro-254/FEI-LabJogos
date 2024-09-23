@@ -22,6 +22,7 @@ public class EnemyGroup : MonoBehaviour
     public float projectileSpeed = 10f; 
     public float firePointDistance = 0.5f;
 
+
     void Start()
     {
         // Começa a rotina de disparo a cada 3 segundos
@@ -191,6 +192,8 @@ public class EnemyGroup : MonoBehaviour
         {
             enemiesWithFirePoints.Remove(destroyedEnemy);
         }
+        Debug.Log("Inimigo destruído!");
+        ScoreManager.AddScore(10);
 
         enemies.Remove(destroyedEnemy);  // Remove o inimigo da lista
 
