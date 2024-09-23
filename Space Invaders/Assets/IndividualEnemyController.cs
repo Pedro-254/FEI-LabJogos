@@ -11,14 +11,18 @@ public class IndividualEnemyController : MonoBehaviour
         enemyGroup = GetComponentInParent<EnemyGroup>();
     }
 
-    void OnTriggerEnter2D(Collider2D other)
+    void OnTriggerEnter2D(Collider2D colision)
     {
-        UnityEngine.Debug.Log("Esta é uma mensagem de log.");
-        // Se colidir com uma parede (por exemplo, um objeto com a tag "Wall")
-        if (other.CompareTag("Wall"))
+        if (colision.CompareTag("Wall"))
         {
-            // Notificar o grupo de inimigos para descer e inverter a direção
             enemyGroup.MoveDownAndChangeDirection();
         }
+        else if (colision.CompareTag("Bullet"))
+        {
+            // Chama o método no EnemyGroup para atualizar a lista de inimigos
+            enemyGroup.OnEnemyDestroyed(gameObject);
+            Destroy(gameObject);
+        }
     }
+
 }
