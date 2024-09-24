@@ -134,6 +134,8 @@ GameObject:
   - component: {fileID: 718895616}
   - component: {fileID: 718895615}
   - component: {fileID: 718895614}
+  - component: {fileID: 718895618}
+  - component: {fileID: 718895617}
   m_Layer: 0
   m_Name: Button
   m_TagString: Untagged
@@ -204,7 +206,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 718895615}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1375022691}
+        m_TargetAssemblyTypeName: Menu, Assembly-CSharp
+        m_MethodName: LoadScenes
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: SampleScene
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &718895615
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -243,6 +257,30 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 718895612}
   m_CullTransparentMesh: 1
+--- !u!114 &718895617
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 718895612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a38c14e5153caa4da46961963f3c38e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &718895618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 718895612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9be0a61acf902a438fb1c435fdb647d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1375022686
 GameObject:
   m_ObjectHideFlags: 0
@@ -255,6 +293,7 @@ GameObject:
   - component: {fileID: 1375022690}
   - component: {fileID: 1375022689}
   - component: {fileID: 1375022688}
+  - component: {fileID: 1375022691}
   m_Layer: 0
   m_Name: Canvas
   m_TagString: Untagged
@@ -346,6 +385,18 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &1375022691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375022686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d40752e78a29af64bbce4a18867aa1d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1687858682
 GameObject:
   m_ObjectHideFlags: 0

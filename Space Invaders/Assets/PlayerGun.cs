@@ -6,7 +6,7 @@ public class PlayerGun : MonoBehaviour
 {
     public GameObject projectilePrefab;
     public Transform firePoint;        
-    public float projectileSpeed = 10f; 
+    public float projectileSpeed = 1f; 
     public float fireRate = 0.5f; 
     private float nextFireTime = 0f;    
 
