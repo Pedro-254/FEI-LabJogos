@@ -4,28 +4,32 @@ using System.Collections.Generic;
 
 public class EnemyGroup : MonoBehaviour
 {
-    public float moveSpeed = 2f;  // Velocidade de movimento horizontal
-    public float moveDownAmount = 0.5f;  // Quantidade de movimento para baixo
+    //____ Movimentacao____
+    public float moveSpeed = 2f;
+    public float moveDownAmount = 0.5f;
+    public float speedIncrement = 0.2f;
     private Vector3 direction = Vector3.right;  // Direção inicial
-
-    public List<GameObject> enemies;  // Lista de inimigos no grupo
-    public GameObject firePointPrefab;  // Prefab do FirePoint a ser instanciado
-    public GameObject projectilePrefab;  // Prefab do projétil a ser disparado
-
-    public float columnThreshold = 0.5f;  // Distância mínima para considerar inimigos em diferentes colunas
-    private Dictionary<float, GameObject> bottomEnemiesByColumn = new Dictionary<float, GameObject>();  // Inimigos mais baixos por coluna
-    private Dictionary<GameObject, GameObject> firePoints = new Dictionary<GameObject, GameObject>();  // Mapa de inimigos com seus FirePoints
-
-    private List<GameObject> enemiesWithFirePoints = new List<GameObject>();  // Lista de inimigos com FirePoints
     public bool isChangingDirection = false; // Impede a troca de direção múltiplas vezes
 
+    //____Tiro____
+    public GameObject firePointPrefab; 
+    public GameObject projectilePrefab;
+    private Dictionary<GameObject, GameObject> firePoints = new Dictionary<GameObject, GameObject>();  // Mapa de inimigos com seus FirePoints
+    private List<GameObject> enemiesWithFirePoints = new List<GameObject>();  // Lista de inimigos com FirePoints
+    public float firePointDistance = 0.7f;
     public float projectileSpeed = 10f; 
-    public float firePointDistance = 0.5f;
+    public float FireDelay = 1f;
+
+    //____Posicionamento____
+    public float columnThreshold = 0.5f;  // Distância mínima para considerar inimigos em diferentes colunas
+    public List<GameObject> enemies;  // Lista de inimigos no grupo
+    private Dictionary<float, GameObject> bottomEnemiesByColumn = new Dictionary<float, GameObject>();  // Inimigos mais baixos por coluna
+
 
 
     void Start()
     {
-        // Começa a rotina de disparo a cada 3 segundos
+        // Rotina de Disparo
         StartCoroutine(FireProjectileRoutine());
     }
 
@@ -50,8 +54,9 @@ public class EnemyGroup : MonoBehaviour
 
         isChangingDirection = true;
 
-        // Mover para baixo
         transform.position += Vector3.down * moveDownAmount;
+
+        moveSpeed += speedIncrement;
 
         // Inverter direção
         direction = (direction == Vector3.right) ? Vector3.left : Vector3.right;
@@ -71,10 +76,10 @@ public class EnemyGroup : MonoBehaviour
 
         foreach (GameObject enemy in enemies)
         {
-            if (enemy == null)
-            {
-                continue;  // Ignora inimigos destruídos
-            }
+            // if (enemy == null)
+            // {
+            //     continue;  // Ignora inimigos destruídos
+            // }
 
             float enemyX = enemy.transform.position.x;
             float enemyY = enemy.transform.position.y;
@@ -195,6 +200,7 @@ public class EnemyGroup : MonoBehaviour
         Debug.Log("Inimigo destruído!");
         ScoreManager.AddScore(10);
 
+
         enemies.Remove(destroyedEnemy);  // Remove o inimigo da lista
 
         // Atualiza o novo inimigo mais baixo
@@ -206,7 +212,7 @@ public class EnemyGroup : MonoBehaviour
     {
         while (true)
         {
-            yield return new WaitForSeconds(3f);  // Dispara a cada 3 segundos
+            yield return new WaitForSeconds(FireDelay);  // Dispara a cada 3 segundos
 
             if (enemiesWithFirePoints.Count > 0)
             {

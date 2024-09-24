@@ -189,7 +189,7 @@ TextureImporter:
         width: 66
         height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -197,6 +197,90 @@ TextureImporter:
       bones: []
       spriteID: 6c04ae130d659d748b5a9f162c470367
       internalID: -555712220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - SpaceInvaders_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 793
+        width: 106
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5740f87bfd7cae4a86eaafc4ec440aa
+      internalID: 1172554423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - SpaceInvaders_2
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 802
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04c1b5dcb62c1a4493e6df1fc46a8d5
+      internalID: 2041074536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - SpaceInvaders_3
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1033
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d63a4ed171b549a4382d89ff7ac7a
+      internalID: -1978362570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites - SpaceInvaders_4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1033
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21ed971599f4484682b57d290b72d69
+      internalID: 1573953323
       vertices: []
       indices: 
       edges: []
@@ -221,6 +305,10 @@ TextureImporter:
       178-1784687_space-invaders-png_2: -1017798858
       178-1784687_space-invaders-png_3: -1232898262
       Sprites - SpaceInvaders_0: -555712220
+      Sprites - SpaceInvaders_1: 1172554423
+      Sprites - SpaceInvaders_2: 2041074536
+      Sprites - SpaceInvaders_3: -1978362570
+      Sprites - SpaceInvaders_4: 1573953323
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
