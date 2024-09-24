@@ -74,6 +74,10 @@ public class PlayerControl : MonoBehaviour
             feedbackText.text = "Vida: " + vidaAtual.ToString();
             rb.velocity = Vector2.zero;
         }
+        else if(collider.CompareTag("Enemy"))
+        {
+            SceneManager.LoadScene("Lose");
+        }
     }
 
     void OnTriggerExit2D(Collider2D collider)
