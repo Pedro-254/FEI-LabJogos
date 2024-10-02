@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class ScriptInimigo : MonoBehaviour
 {
@@ -45,6 +46,7 @@ public class ScriptInimigo : MonoBehaviour
 
             // Destroi o projétil
             Destroy(collision.gameObject);
+            ScoreManager.AddScore(10);
         }
     }
 }

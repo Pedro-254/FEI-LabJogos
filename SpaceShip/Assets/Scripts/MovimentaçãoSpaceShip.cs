@@ -1,4 +1,6 @@
 using UnityEngine;
+using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class MovimentaçãoSpaceShip : MonoBehaviour
 {
@@ -22,5 +24,18 @@ public class MovimentaçãoSpaceShip : MonoBehaviour
     {
         // Move a nave
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        // Verifica se o objeto colidido tem a tag "Projetil"
+        if (collision.CompareTag("Inimigo"))
+        {
+            // Destroi o nave
+            Destroy(gameObject);
+
+            SceneManager.LoadScene("Lose");
+            
+        }
     }
 }
