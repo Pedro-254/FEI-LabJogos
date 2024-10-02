@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 
 public class ScoreManager : MonoBehaviour
 {
@@ -18,6 +20,12 @@ public class ScoreManager : MonoBehaviour
     {
         // Debug.Log("Score: " + scorecount);
         scoreText.text = "Score: " + scorecount;
+
+        if (scorecount >= 100)
+        {
+            scorecount = 0;
+            SceneManager.LoadScene("Win");
+        }
     }
 
     public static void AddScore(int score)
