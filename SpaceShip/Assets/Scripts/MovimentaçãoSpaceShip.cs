@@ -37,5 +37,15 @@ public class MovimentaçãoSpaceShip : MonoBehaviour
             SceneManager.LoadScene("Lose");
             
         }
+
+        // Verifica se o objeto colidido tem a tag "Projetil"
+        if (collision.CompareTag("ProjetilInimigo"))
+        {
+            // Destroi o nave
+            Destroy(gameObject);
+
+            SceneManager.LoadScene("Lose");
+            
+        }
     }
 }

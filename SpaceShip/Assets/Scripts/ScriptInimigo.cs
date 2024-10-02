@@ -4,12 +4,15 @@ using System.Collections;
 public class ScriptInimigo : MonoBehaviour
 {
     public float velocidade = 5f;  // Velocidade do inimigo
-    private Camera mainCamera;     // Referência à câmera principal
+    public GameObject projétilPrefab; // Prefab do projétil a ser disparado
+    public float intervaloDisparo = 2f; // Intervalo entre os disparos
+    private Camera mainCamera; // Referência à câmera principal
 
     void Start()
     {
         // Obtém a referência da câmera principal
         mainCamera = Camera.main;
+        StartCoroutine(Atirar()); // Inicia a coroutine de disparo
     }
 
     void Update()
@@ -28,11 +31,37 @@ public class ScriptInimigo : MonoBehaviour
     bool SaiuDaTela()
     {
         Vector3 posicaoNaTela = mainCamera.WorldToViewportPoint(transform.position);
-        if (posicaoNaTela.x < 0)
+        return posicaoNaTela.x < 0;
+    }
+
+    // Coroutine para atirar periodicamente
+    private IEnumerator Atirar()
+    {
+        while (true)
         {
-            return true;
+            // Instancia um projétil
+            InstanciarProjetil();
+
+            // Espera pelo intervalo de disparo
+            yield return new WaitForSeconds(intervaloDisparo);
         }
-        return false;
+    }
+
+    // Método para instanciar um projétil
+    private void InstanciarProjetil()
+    {
+        // Define a posição de spawn do projétil (ajuste conforme necessário)
+        Vector3 posicaoSpawn = transform.position + new Vector3(1f, 0, 0); // Um pouco à direita do inimigo
+
+        // Instancia o projétil
+        GameObject projétil = Instantiate(projétilPrefab, posicaoSpawn, Quaternion.Euler(0, 0, 90)); // Rotaciona 90 graus
+
+        // Ajuste a direção do projétil para que vá da direita para a esquerda
+        Rigidbody2D rb = projétil.GetComponent<Rigidbody2D>();
+        if (rb != null)
+        {
+            rb.velocity = Vector2.left * 10f; // Define a velocidade do projétil (ajuste conforme necessário)
+        }
     }
 
     // Método chamado quando o inimigo entra em colisão com outro objeto

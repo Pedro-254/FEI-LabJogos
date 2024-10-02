@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Projetil
   - Inimigo
+  - ProjetilInimigo
   layers:
   - Default
   - TransparentFX
