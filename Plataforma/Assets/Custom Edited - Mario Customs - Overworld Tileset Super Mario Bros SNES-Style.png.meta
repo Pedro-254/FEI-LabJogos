@@ -1,0 +1,5394 @@
+fileFormatVersion: 2
+guid: 5ecc28401ed16ba48bd1502581ca3ad2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad79a52d44430747a0fdc7299fc8ea3
+      internalID: 19646327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dedd57375bdf624da0bce1091eab72f
+      internalID: -494174352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710a71a67f2c3f64eb6c0587ebc5a8ca
+      internalID: -336459692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0400825bcf719c4faa12e924a035324
+      internalID: -467086859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaeed69437f74240aea2c77620a2f7f
+      internalID: 9054389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699430a05316db146848135beba4ba92
+      internalID: -1196267093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0efeec8acc4b144a3918cb04a802a3
+      internalID: -1423515794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4978e3554ee913c43af721c0b1d8e143
+      internalID: -2096249348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27b6232f98cb524fa985cac4477a33f
+      internalID: 1842683258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d457df83e6ca34da7fb3137cfccee0
+      internalID: 1368073555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b4ed3dbaea8084595ab3dbcd18e5a0
+      internalID: 55466217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9512e3d65d00a0408a190f0fde3ccab
+      internalID: 2002692178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201d994c307f4fe4cadee38db27a9a1b
+      internalID: -1856943618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7e6beea8a5f8540b168256b808a144
+      internalID: -1470281517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfc1befaef57644f8f623f4f984f739
+      internalID: 115705229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801dbbd977fb36342a3a240960d03373
+      internalID: 2111772283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eed0d730153a644b31cfc1307de241
+      internalID: -1037121588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872094f1eccd28443a685b4435cdb35a
+      internalID: 682569354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ba606aac6e0034180048509c7628df
+      internalID: -91748812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516d270c039895a45b1e7682d7a611f3
+      internalID: -1695044539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe4ccfc54c9f564880f491f46b4c205
+      internalID: -1474637268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594e4bc28296e184e8a7263ac9df679c
+      internalID: -1210009101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cf650125c6e3c4b870227945e6ab22
+      internalID: 985578406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca91ed7b6a1b4946806c7c9d9f00bf4
+      internalID: 2147168486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc095fc99770152448c10e0a44b6c01b
+      internalID: -484881307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e11ec1e17f84d48ae859b6d6beb7d8
+      internalID: 1430108818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c4d9d3698a16a4f947347125575d7f
+      internalID: -996264904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71c36dfcdbf09e478a87e68b7ca9487
+      internalID: 646549642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba88478462024540a72fb1cfbc59166
+      internalID: -1162439679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eac5c9e769ae84c854a9fbb2e4734a
+      internalID: 1746154181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a6ba6ce2e814f46bed5a4b79b9f2c7
+      internalID: 527057560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a361bc5e4453cea4eadd57904e44cba0
+      internalID: 1110159540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bf5dd9334af3542b740516cbdacc7e
+      internalID: 1101296601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737859c3bd5e9b74eaab186ea079d683
+      internalID: 665230572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33658a8a4c24205458d4a499c0b030b3
+      internalID: 936576006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3724561ca7edb9646b5ee194bf04c0ad
+      internalID: 650511880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fac85e21cb35d340b47203b4767421d
+      internalID: 1496961972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1a97ce98cf832449211bbf682e382c
+      internalID: 1043986410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fddba6db929b1c45af33e9a481469a9
+      internalID: 786607068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42683b576eeba584fa4e7cfed90f0eb7
+      internalID: 296759804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25940360c6de6904d9d0fbb43cd08b93
+      internalID: -2082839372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7997118acc9cb4146acc142bdfb77ec0
+      internalID: -1747799932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3842fd2181fdbdf40bf50cd1e9be0077
+      internalID: 1537212729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8532fb15e28f6049af279c16290b8f6
+      internalID: -1184115910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdcac91c4f9af441a89faf8250301cf
+      internalID: 1279203838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ef2df16fde5a84aa78d8b20dbf9648
+      internalID: 452202278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10adc525928a5741a95190c4f63557c
+      internalID: 1686374918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1818a985e31fbe409573e654d007fe2
+      internalID: -293181237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88c94c60788c6640a6013be637ee59e
+      internalID: -13570047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e0bedb44aebe344b80d1c856fddef7
+      internalID: 1870380040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229c994970924b3498a1e1fde3bae3af
+      internalID: 475461998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_51
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cac4e6f2b0fd649b45db48d0b40e02
+      internalID: 321404631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fadb2e743ac424683dcce7130a4f95
+      internalID: 1288628275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fb8535f74ab3d42ae4d5a31f7226cf
+      internalID: -821940681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0f06cc64151c144b40b11f5dd844df
+      internalID: 1422558215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fd911328c232b499e28201801a9141
+      internalID: -1320798278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437bffef52d36b242a36068d20a6eada
+      internalID: 1453656673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975efb28c0ea67d478e10106c95661e5
+      internalID: 316358134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_58
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5503b0f670ff5e4f9101aa112bcec70
+      internalID: -1264466386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_59
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f606ee2ab16ecbb4db18eb63a4e68fea
+      internalID: 787378155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dc31ab7feb4d640a8a27f97a03ea55
+      internalID: 1148038395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f69883b0749cd4bb4d35e70c55569d
+      internalID: 1437471137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc61e88837392245b67333a980eb7ec
+      internalID: -54066834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2602b9cc374961b43bcf3338dec6ba40
+      internalID: -131824925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f8831e979bd2d458afd61dadf79f6f
+      internalID: -385520370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc6daf5866826e40a8380637a5bcfb1
+      internalID: -1259445011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9eb83247716fc4fa434f90a2b69e4f
+      internalID: 263858592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446477b6415fe094fbe960252b7806de
+      internalID: 1690404065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a411b811b23c52c48a942e9bffe4a469
+      internalID: 2020289190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ffdfffbe79a3d43acbad40e6e89b64
+      internalID: -2016471636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d5d4e8f30d21d43b4adb29b422fdaa
+      internalID: -66035187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65322607ff118894ab3cc08652ad413f
+      internalID: -1755137394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4e6ef1663dbe14aaddd4635f3b246b
+      internalID: -1275528917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79140d0f10f4e524eabadbfbe9430593
+      internalID: -1530161278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1cf9ca25d049940abd5a91ded0f7e5
+      internalID: -8186585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_75
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f3d5737335ed045b88e20103f35ca6
+      internalID: 355397357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378829ba7b205014f941b31574119ce4
+      internalID: -1841596620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_77
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa463063bdabc814388f8f998ad9b4e9
+      internalID: -156321737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69479ffdd8dcf494eb6421729c3d1614
+      internalID: 1920589948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_79
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604117d2492117644b499fd78f20f819
+      internalID: -1248674666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab0555bbbff3c94c8b8a388e5832b7c
+      internalID: -906201825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b40953781055024ab60a00561b6027e
+      internalID: -1116461562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51143df012712664d90fb51b54b17caf
+      internalID: -144758708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb98ef94537d2f245b99ce595ccb19b7
+      internalID: -1718425387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725ef57d58f4ce948869644fe4f15bc2
+      internalID: 789435608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a760ab835bfaf804db831ca4e7ef86e2
+      internalID: -1397644336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c72cf2d03939148b693fd2d4b2968f
+      internalID: -560899939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff4e4eaf22a345409afa29cb014c7c9
+      internalID: -1117963230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a29b09c2c1c0d4e958a5e5cca80431
+      internalID: 1944090199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1c28d42fead3346a9bb77f30a77f19
+      internalID: 193479071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ae17369be53f7419b88270331c8526
+      internalID: 187311305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_91
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71d4b10541583744b75353c5e48006b
+      internalID: -439448601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df5ebc4a60dccc4eb581caf03e2eb17
+      internalID: -1020447500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_93
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724f4ad18d0aac242a5b24426d996b6a
+      internalID: -975615881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fd38e13fc2c1641a367df0f5f46e80
+      internalID: -1503684708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8719b9982f0c584582bb0c4ad041ff7
+      internalID: 1632748321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed381c6ada8c645449ed9c449547de2e
+      internalID: -2052936090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_97
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d8c8db9ab8050478aa415d89a93338
+      internalID: 971448963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc128b5996c50b4a884ea37315570bf
+      internalID: -1447121099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_99
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d611b9bbf6294fd44a7e271c17e04de7
+      internalID: -149137037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6231bd7df6f337a4fb0eaa50826c783a
+      internalID: 1982290978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf179f6a53d91174a84b2d0f251c3dd2
+      internalID: -1177605318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae58a89e4ebf0a43b790de7a7b13b60
+      internalID: 451145997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5750dd197ba44c045aed61f971fda36e
+      internalID: 694692152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bcf07c8f5ab6b4cb1cbd8c6569a52f
+      internalID: -1299562302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_105
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb80db3ba0fe1d448862f71317bc356
+      internalID: -520982348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bd93e965659e048a57ebe71951cbcb
+      internalID: -615029053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cf7f4f1d9156b428aac96240b8d7c8
+      internalID: 1007303420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c6753560bba134ca85c676f6c555bd
+      internalID: -1783173750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f100c15b446e8824293ea20d30e24fc2
+      internalID: -1092601690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebd6a9bf66b88e499fbd8f2c8ed991e
+      internalID: -1080259844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_111
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0cb4e9860a43541ac4ccad7c9c14b6
+      internalID: 933577336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76237c920fabb5848a5bddf63cac5cae
+      internalID: -1397397768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_113
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad76bfe5c1dbdb340bdfe01832ccccb6
+      internalID: -382177939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_114
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2af8a4f6f29d1d4b89c33f5699b5177
+      internalID: -577011947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_115
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7762bf16218c0f40985e012f9a6de82
+      internalID: 1375681307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ff8b7fd7becf04cbea95ddbf9c72e9
+      internalID: -670803142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_117
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ea39dec0631ca438bb846b30ab0fb7
+      internalID: 1505627280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f778c76a42cc64fb1774318721f4ad
+      internalID: -1254765596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_119
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190c163990019fd42942472cbba1d27c
+      internalID: 578481125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087d511b11bedbd4dbee2763c585b9fc
+      internalID: -1043769156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9f663f02827c1408f64a5a8f3966f3
+      internalID: -1789809802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65779dc45fb636a43a7ede0ad840a037
+      internalID: -53430127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f6d59cf3def2d4b8c1b801c1f349b6
+      internalID: -1557306725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256d490d07177fb4f80ea136a1391a8d
+      internalID: -423873309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e493657a02092646961c4e9468c4818
+      internalID: -1152122624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc88089d95f37848a8efe25e907fef6
+      internalID: 1241307243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642e7587de05f99428cda9b486deb89f
+      internalID: -2088698967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0bd3b463bd06d4aa48720dec6ddaf3
+      internalID: 112398915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9da0acced610b48adadefaf1f00a0c
+      internalID: -929582587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c59d906616e8c409745e2aadae758b
+      internalID: 312199453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_131
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c36796247e1d245917c236a7b1c4b1
+      internalID: 1749357989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f9355f8fef642468ec96ee92fb82a7
+      internalID: -271937896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_133
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3786daaa8d0f5ab429182c88062eeba9
+      internalID: 1867194877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23a14fb5c5624849bac2821d43609a1
+      internalID: 1235978150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_135
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229c4c254fa2acb4ca9e2672d280a3cb
+      internalID: 214122943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bd3edca74c6854bbdc6709ba630573
+      internalID: -1978748759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_137
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfce0357f35d0c4d87c8441cd5ab981
+      internalID: 37160411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_138
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e869472f11600e46b0ce3a04c57b3f2
+      internalID: -1504596844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_139
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bace799d5e98f742bd10a350320e1be
+      internalID: -1149013861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79376fff58353f94eb2bec4e1c8cda2c
+      internalID: -168924535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a158fe6a1479d58418a8f68c3d4db733
+      internalID: 1133586093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_142
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e257f5cb4eccc7b4fa8ef42c4eccaee5
+      internalID: -462552315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_143
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3ca8de40201a4478f1815d53c88b4f
+      internalID: 471968153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_144
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a1d53ae8feda746bac5eb8a1ef31ae
+      internalID: -954136323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db9aafcd609d5a41a1d96f01badbefa
+      internalID: 138628501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370d678336a9aa846a111741eda627ce
+      internalID: -1828756796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_147
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3cb9c0e44ae9e4e935840cf1fbf8d3
+      internalID: 1111196581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17c5f7a12be1514393691c28b7aca8a
+      internalID: 685927690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb3b6c4dc18f82478b21d791f608f1d
+      internalID: 1321738868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_150
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da484485d7668e49a9f14d1dea77327
+      internalID: 1075149187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_151
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413de861d056de3429cea0c6c45627a7
+      internalID: 2100667127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f689576bad573d468f12346f33c323b
+      internalID: 1378285520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_153
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3377fd9e16cae140b3931b8229bfb7c
+      internalID: -920637264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed64075b0f1f0c74ab71f613f1ebbfda
+      internalID: -441726805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b504fc838175df42bdd2d178af01d6f
+      internalID: 1944389956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_156
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a39eb74ed3640b42b1579d14938d58f
+      internalID: 763913680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_157
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f52681eb97a6a4e81c3a3d07b83dad
+      internalID: -282163829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_158
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c52e67518093748ba9ef2000e29b84
+      internalID: -238610312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_159
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44541ce855399a64996c1a4e8f282562
+      internalID: -1475436580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79597a64b96c68c429907b4891475393
+      internalID: -103169053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d6a6d9f72183a4d82a931764be7ddf
+      internalID: 336846028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391a7e4af9a5cd4439474b85b1e8bb08
+      internalID: 459731076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294cc8823ca944e4780b5c4d4a09444d
+      internalID: 1109105870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_164
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97984aa951b21214090280fb65391d09
+      internalID: 1740768438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_165
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e6f74342565e6459e9fafcac0e30f2
+      internalID: -110226136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c74e7e8f8dd98488badc668910f870
+      internalID: 136745946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_167
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92d5baa11dd84640b4640e97a3a622e
+      internalID: -163130327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_168
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e063c82465b2a4b88420ed8f416c9f
+      internalID: -286654612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_169
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa6c9b4b7c202a41a0419944eb8776c
+      internalID: 1011349067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3ce5d0f3336394b8d6343b5dbfb794
+      internalID: -1694986846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_171
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edfc289149bc184cb3244e080304fb7
+      internalID: 33714715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_172
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e6e732885d83c4d998834b66ea5cd1
+      internalID: 1772596133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_173
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ed39ce3e7b91f45b7ca6800de871f7
+      internalID: 847675938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_174
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5c925a0a4c0e843bec86536d35ca91
+      internalID: -1406324853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_175
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9f4d83ab3d3ac49a996cfcb8621279
+      internalID: 2035347314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176077439e453d641b6c88d6c6161933
+      internalID: -150833891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_177
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f7f5877c7dc864d8ee60011cd8b1e4
+      internalID: -1249586239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_178
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db80ad8fee9e34b95e44ca7e39afb2
+      internalID: 1865029343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_179
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfd17c1e107acd41b80359d5fc31c4a
+      internalID: 1241401741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411498bb34f91894eb63a5523f6ada89
+      internalID: -1920700398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_181
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8c5f9e2fc6e8b43bfb85d550365f49
+      internalID: 1122838226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_182
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7289015db44e2f54084133f4910f8c62
+      internalID: -2043094487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_183
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b1979f867bdd64297d4f11e8cecf07
+      internalID: -1656439568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c17c0e2a11c8d4ba4f7601d8b83e67
+      internalID: 1965427955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_185
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dd3234dcd7b434185120f5cff8d4f2
+      internalID: -175554458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_186
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74910fb58d46b7149b894fad4a138932
+      internalID: -861842206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_187
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575518e5705e37343ac16ea52932a4da
+      internalID: -868770133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d6b20b27ce9594baec867ba2dba945
+      internalID: -1856348959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_189
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df0d4d179199e946b8cb52967add851
+      internalID: -1355776687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_190
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c3803ca039a0c449889fbe70c199c2
+      internalID: 1211340741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_191
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85995422fd1fc214aa1300731bbcf793
+      internalID: 1816525612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_192
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5500c18e0133c24498e48494a038dc4b
+      internalID: -501578754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_193
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9cd62326d504a4d897b88da29b37db
+      internalID: 1174505804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_194
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478ca83be41bc53459fe88e9cccf260a
+      internalID: 1588584327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_195
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a2a7acfcc23144189abdf8378cdebe
+      internalID: 1858042545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91150f33c0c57d4409a5800972423811
+      internalID: -1064325818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_197
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2ca1b384d5af740885b4192f5c3087
+      internalID: 194580146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0f06d1df04e2c46afbab7d4482318f
+      internalID: -218815358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_199
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9cc28ac2f131d4c8eacf3dfc7c324e
+      internalID: 1075693263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a1152f1fde4c84b9a575e8fcc968bc
+      internalID: -1752757723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_201
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951924f63bea23a409b9148d1a53bad4
+      internalID: 525624439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_202
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1070880cc301a2946a25c113976cc770
+      internalID: -2104518170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_203
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6a0594ba6236c4ab82f68dc3fc8289
+      internalID: -1249275474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_204
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dfe938bff892b4694ad94e813875b4
+      internalID: 1187309759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_205
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3e4705217f55b4792765bd525384fd
+      internalID: -1009873569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659f361f894bb404ea4137b0b52f6567
+      internalID: -471223429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_207
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c37ecb2976e9a3409b038931879385a
+      internalID: -30194972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_208
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f251cd2d5cc4a0e458cf8a58bd3b4185
+      internalID: 583123764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_209
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a822fd1d3477b648b6fd83b554195a1
+      internalID: -807899300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_210
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e0e24dc9ea24e438bf28a7d604c21e
+      internalID: -627845016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_211
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832744b0b85f2e444abb49f5b68aaca1
+      internalID: -1775511780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18867e9bb08361c4ea6bd8bd5caae71e
+      internalID: 1375403173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_213
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0806201bda3b23489ae2e33d640fd84
+      internalID: 379128769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_214
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d936a70ffd80944b4f89d826a598fa
+      internalID: -1968404137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_215
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8cbeddfa79f67479d2ad3cebcba87b
+      internalID: 1361457067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_216
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da6979360af96b45a64f46787d294ab
+      internalID: 1569575168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_217
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c64d27d33e66f344bd665873cee7749
+      internalID: 822194163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_218
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486dcb216bb3b6343af332cafe3e7d57
+      internalID: -817294838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_219
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987708523d4242544ae3032f82d1a01b
+      internalID: 2037973610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa91aff49162674abf9bf1d1c17d9ed
+      internalID: 1997024976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_221
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71116092f47c21468c092bd65b910d4
+      internalID: 545164277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_222
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7704eedcad372f24e9a720eac188a96e
+      internalID: -1513977157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_223
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad30dc3e0aeacf40bd6347e46b4dbd1
+      internalID: 263158301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_224
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192a17b81684c5b488df802cd5985b7f
+      internalID: -804225175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_225
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd302a5b1c73db4a82ff67e358880bb
+      internalID: 189560924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb690cd6251c8140a0db405aa8a1c48
+      internalID: -1161624169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_227
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e423605d98ce56943a099db9b94da938
+      internalID: 1684859531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056e9b360a8f538478753eaf9e3e72d2
+      internalID: 1738908258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_229
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f118dade11133ff4d82906a65f129fea
+      internalID: 1307063006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_230
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd79c1bf2a3b274f8adac2e8e9318b6
+      internalID: 1614889850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_231
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc7795190a7a2740bc90b3a50add4a0
+      internalID: 1843397756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_232
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acc59eed0b1d37479b0db7c11b27b8e
+      internalID: -89414277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_233
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b830fec7bbe124eb3382d654f50c39
+      internalID: 857428541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_234
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e9fbf4acb8fb54ba6f728f37abb9a7
+      internalID: 752315188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_235
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f4b048128099c40ac4409751ae0fbe
+      internalID: -908426590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_236
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd0d5c24c58196458f9ed88fdd3ea04
+      internalID: 1206032702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_237
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318c66226780604458de5d0922d927c8
+      internalID: 5765706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_238
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fbd12c7068b1443a6cd88f227bc3f7
+      internalID: -762719316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_239
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e01ba4ca762f34f8bc89f153b985ec
+      internalID: 1687331588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_0: 19646327
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_1: -494174352
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_10: 55466217
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_100: 1982290978
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_101: -1177605318
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_102: 451145997
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_103: 694692152
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_104: -1299562302
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_105: -520982348
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_106: -615029053
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_107: 1007303420
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_108: -1783173750
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_109: -1092601690
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_11: 2002692178
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_110: -1080259844
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_111: 933577336
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_112: -1397397768
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_113: -382177939
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_114: -577011947
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_115: 1375681307
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_116: -670803142
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_117: 1505627280
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_118: -1254765596
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_119: 578481125
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_12: -1856943618
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_120: -1043769156
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_121: -1789809802
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_122: -53430127
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_123: -1557306725
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_124: -423873309
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_125: -1152122624
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_126: 1241307243
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_127: -2088698967
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_128: 112398915
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_129: -929582587
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_13: -1470281517
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_130: 312199453
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_131: 1749357989
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_132: -271937896
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_133: 1867194877
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_134: 1235978150
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_135: 214122943
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_136: -1978748759
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_137: 37160411
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_138: -1504596844
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_139: -1149013861
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_14: 115705229
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_140: -168924535
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_141: 1133586093
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_142: -462552315
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_143: 471968153
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_144: -954136323
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_145: 138628501
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_146: -1828756796
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_147: 1111196581
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_148: 685927690
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_149: 1321738868
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_15: 2111772283
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_150: 1075149187
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_151: 2100667127
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_152: 1378285520
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_153: -920637264
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_154: -441726805
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_155: 1944389956
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_156: 763913680
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_157: -282163829
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_158: -238610312
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_159: -1475436580
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_16: -1037121588
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_160: -103169053
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_161: 336846028
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_162: 459731076
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_163: 1109105870
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_164: 1740768438
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_165: -110226136
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_166: 136745946
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_167: -163130327
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_168: -286654612
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_169: 1011349067
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_17: 682569354
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_170: -1694986846
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_171: 33714715
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_172: 1772596133
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_173: 847675938
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_174: -1406324853
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_175: 2035347314
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_176: -150833891
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_177: -1249586239
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_178: 1865029343
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_179: 1241401741
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_18: -91748812
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_180: -1920700398
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_181: 1122838226
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_182: -2043094487
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_183: -1656439568
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_184: 1965427955
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_185: -175554458
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_186: -861842206
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_187: -868770133
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_188: -1856348959
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_189: -1355776687
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_19: -1695044539
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_190: 1211340741
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_191: 1816525612
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_192: -501578754
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_193: 1174505804
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_194: 1588584327
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_195: 1858042545
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_196: -1064325818
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_197: 194580146
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_198: -218815358
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_199: 1075693263
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_2: -336459692
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_20: -1474637268
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_200: -1752757723
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_201: 525624439
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_202: -2104518170
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_203: -1249275474
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_204: 1187309759
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_205: -1009873569
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_206: -471223429
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_207: -30194972
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_208: 583123764
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_209: -807899300
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_21: -1210009101
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_210: -627845016
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_211: -1775511780
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_212: 1375403173
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_213: 379128769
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_214: -1968404137
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_215: 1361457067
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_216: 1569575168
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_217: 822194163
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_218: -817294838
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_219: 2037973610
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_22: 985578406
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_220: 1997024976
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_221: 545164277
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_222: -1513977157
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_223: 263158301
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_224: -804225175
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_225: 189560924
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_226: -1161624169
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_227: 1684859531
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_228: 1738908258
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_229: 1307063006
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_23: 2147168486
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_230: 1614889850
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_231: 1843397756
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_232: -89414277
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_233: 857428541
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_234: 752315188
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_235: -908426590
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_236: 1206032702
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_237: 5765706
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_238: -762719316
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_239: 1687331588
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_24: -484881307
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_25: 1430108818
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_26: -996264904
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_27: 646549642
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_28: -1162439679
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_29: 1746154181
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_3: -467086859
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_30: 527057560
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_31: 1110159540
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_32: 1101296601
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_33: 665230572
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_34: 936576006
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_35: 650511880
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_36: 1496961972
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_37: 1043986410
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_38: 786607068
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_39: 296759804
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_4: 9054389
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_40: -2082839372
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_41: -1747799932
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_42: 1537212729
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_43: -1184115910
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_44: 1279203838
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_45: 452202278
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_46: 1686374918
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_47: -293181237
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_48: -13570047
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_49: 1870380040
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_5: -1196267093
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_50: 475461998
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_51: 321404631
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_52: 1288628275
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_53: -821940681
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_54: 1422558215
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_55: -1320798278
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_56: 1453656673
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_57: 316358134
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_58: -1264466386
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_59: 787378155
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_6: -1423515794
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_60: 1148038395
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_61: 1437471137
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_62: -54066834
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_63: -131824925
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_64: -385520370
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_65: -1259445011
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_66: 263858592
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_67: 1690404065
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_68: 2020289190
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_69: -2016471636
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_7: -2096249348
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_70: -66035187
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_71: -1755137394
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_72: -1275528917
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_73: -1530161278
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_74: -8186585
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_75: 355397357
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_76: -1841596620
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_77: -156321737
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_78: 1920589948
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_79: -1248674666
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_8: 1842683258
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_80: -906201825
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_81: -1116461562
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_82: -144758708
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_83: -1718425387
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_84: 789435608
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_85: -1397644336
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_86: -560899939
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_87: -1117963230
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_88: 1944090199
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_89: 193479071
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_9: 1368073555
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_90: 187311305
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_91: -439448601
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_92: -1020447500
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_93: -975615881
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_94: -1503684708
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_95: 1632748321
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_96: -2052936090
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_97: 971448963
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_98: -1447121099
+      Custom Edited - Mario Customs - Overworld Tileset Super Mario Bros SNES-Style_99: -149137037
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
