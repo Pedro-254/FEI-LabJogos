@@ -73,19 +73,18 @@ public class yoshi : MonoBehaviour
             isjump = false;
         }
 
-        // Detecta colisão com um inimigo
-        if(col.gameObject.CompareTag("Enemy")){
-            // Verifica se a colisão foi pelos lados (esquerda ou direita)
-            Vector3 contactPoint = col.contacts[0].point;
-            Vector3 center = col.collider.bounds.center;
-
-            bool hitFromLeft = contactPoint.x < center.x;  // Colidiu pela esquerda
-            bool hitFromRight = contactPoint.x > center.x; // Colidiu pela direita
-
-            if((hitFromLeft || hitFromRight) && !isInvulnerable){
+        if (col.gameObject.CompareTag("Enemy"))
+        {
+            // Verifica se o jogador está em uma posição acima do inimigo
+            if (col.transform.position.y + 0.05f < transform.position.y )
+            {
+            }
+            else
+            {
                 LoseLife();
             }
         }
+
     }
 
     void OnCollisionExit2D(Collision2D col){
@@ -106,6 +105,19 @@ public class yoshi : MonoBehaviour
             // Ações a serem tomadas quando as vidas acabarem, como reiniciar o nível
             Debug.Log("Game Over!");
         }
+    }
+
+    // Corrotina para lidar com a invulnerabilidade
+    IEnumerator InvulnerabilityCoroutine()
+    {
+        // Ativa a invulnerabilidade
+        isInvulnerable = true;
+
+        // Aguarda o tempo de invulnerabilidade
+        yield return new WaitForSeconds(0.2f);
+
+        // Desativa a invulnerabilidade
+        isInvulnerable = false;
     }
 
     // Coroutine para fazer o player piscar em vermelho e ficar invulnerável temporariamente

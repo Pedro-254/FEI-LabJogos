@@ -101,7 +101,6 @@ public class EnemyPatrol : MonoBehaviour
         gameObject.tag = "Untagged";
         isDead = true; // O inimigo está morto
         animator.SetBool("dead", true); // Define a animação de morte
-        animator.SetBool("walk", false); // Desativa a animação de andar quando o inimigo morre
 
         // Modifica o BoxCollider2D após a morte
         boxCollider.offset = new Vector2(-0.001233459f, 0.03200474f); // Define o novo offset
