@@ -10,11 +10,22 @@ public class yoshi : MonoBehaviour
     public bool doublejump;
     private Rigidbody2D rb;
     private Animator anim;
+    private SpriteRenderer spriteRenderer; // Para alterar a cor do player
+
+    public int totalLives = 3; // Número total de vidas configurável no Unity Inspector
+    public Color damageColor = Color.red; // Cor que o player vai piscar ao tomar dano
+    public float damageFlashDuration = 0.5f; // Duração do piscar
+
+    private Color originalColor; // Cor original do sprite
+    private bool isInvulnerable = false; // Flag para invulnerabilidade
+
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>(); // Pega o SpriteRenderer
+        originalColor = spriteRenderer.color; // Armazena a cor original
     }
 
     // Update is called once per frame
@@ -27,6 +38,7 @@ public class yoshi : MonoBehaviour
     void Move(){
         Vector3 mov = new Vector3(Input.GetAxis("Horizontal"), 0,0);
         transform.position += mov * Speed * Time.deltaTime;
+
         if(Input.GetAxis("Horizontal") > 0){
             anim.SetBool("walk", true);
             transform.eulerAngles = new Vector3(0,0,0);
@@ -56,8 +68,23 @@ public class yoshi : MonoBehaviour
     }
 
     void OnCollisionEnter2D(Collision2D col){
+        // Detecta se o player colidiu com o chão
         if(col.gameObject.layer == 6){
             isjump = false;
+        }
+
+        // Detecta colisão com um inimigo
+        if(col.gameObject.CompareTag("Enemy")){
+            // Verifica se a colisão foi pelos lados (esquerda ou direita)
+            Vector3 contactPoint = col.contacts[0].point;
+            Vector3 center = col.collider.bounds.center;
+
+            bool hitFromLeft = contactPoint.x < center.x;  // Colidiu pela esquerda
+            bool hitFromRight = contactPoint.x > center.x; // Colidiu pela direita
+
+            if((hitFromLeft || hitFromRight) && !isInvulnerable){
+                LoseLife();
+            }
         }
     }
 
@@ -65,5 +92,37 @@ public class yoshi : MonoBehaviour
         if(col.gameObject.layer == 6){
             isjump = true;
         }
+    }
+
+    // Método para reduzir uma vida e piscar em vermelho
+    void LoseLife(){
+        totalLives--;
+        Debug.Log("Vidas restantes: " + totalLives);
+
+        // Pisca em vermelho ao tomar dano e fica invulnerável
+        StartCoroutine(DamageFlash());
+
+        if(totalLives <= 0){
+            // Ações a serem tomadas quando as vidas acabarem, como reiniciar o nível
+            Debug.Log("Game Over!");
+        }
+    }
+
+    // Coroutine para fazer o player piscar em vermelho e ficar invulnerável temporariamente
+    IEnumerator DamageFlash(){
+        // Ativa a invulnerabilidade
+        isInvulnerable = true;
+
+        // Altera a cor para vermelho
+        spriteRenderer.color = damageColor;
+
+        // Aguarda o tempo de invulnerabilidade
+        yield return new WaitForSeconds(damageFlashDuration);
+
+        // Retorna a cor original
+        spriteRenderer.color = originalColor;
+
+        // Desativa a invulnerabilidade
+        isInvulnerable = false;
     }
 }
