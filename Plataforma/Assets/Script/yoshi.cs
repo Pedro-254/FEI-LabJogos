@@ -1,9 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class yoshi : MonoBehaviour
-{
+{  
     public float Speed;
     public float JumpForce;
     public bool isjump;
@@ -26,13 +27,21 @@ public class yoshi : MonoBehaviour
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>(); // Pega o SpriteRenderer
         originalColor = spriteRenderer.color; // Armazena a cor original
+        
     }
+    
 
     // Update is called once per frame
     void Update()
     {
         Move();
         Jump();
+        if(totalLives<=0){
+            Invoke("LoadGameOver",0f);
+        }
+    }
+    void LoadGameOver(){
+        SceneManager.LoadScene("FIm");
     }
 
     void Move(){
@@ -84,6 +93,7 @@ public class yoshi : MonoBehaviour
                 LoseLife();
             }
         }
+        
 
     }
 
@@ -95,12 +105,13 @@ public class yoshi : MonoBehaviour
 
     // Método para reduzir uma vida e piscar em vermelho
     void LoseLife(){
+
+
         totalLives--;
         Debug.Log("Vidas restantes: " + totalLives);
 
         // Pisca em vermelho ao tomar dano e fica invulnerável
         StartCoroutine(DamageFlash());
-
         if(totalLives <= 0){
             // Ações a serem tomadas quando as vidas acabarem, como reiniciar o nível
             Debug.Log("Game Over!");
