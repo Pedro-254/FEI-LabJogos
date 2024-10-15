@@ -17,6 +17,8 @@ public class yoshi : MonoBehaviour
     public Color damageColor = Color.red; // Cor que o player vai piscar ao tomar dano
     public float damageFlashDuration = 0.5f; // Duração do piscar
 
+    public HeartSystem heart;
+
     private Color originalColor; // Cor original do sprite
     private bool isInvulnerable = false; // Flag para invulnerabilidade
 
@@ -90,6 +92,7 @@ public class yoshi : MonoBehaviour
             }
             else
             {
+                heart.vida--;
                 LoseLife();
             }
         }

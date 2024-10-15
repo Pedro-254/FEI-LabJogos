@@ -7,7 +7,7 @@ public class NewBehaviourScript : MonoBehaviour
     public HeartSystem heart;
     private void OnCollisionEnter2D(Collision2D collision){
         if(collision.gameObject.tag == "Player"){
-            heart.vida--;
+            // heart.vida--;
         }
     }
 }
