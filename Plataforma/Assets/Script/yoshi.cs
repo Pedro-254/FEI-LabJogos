@@ -96,6 +96,10 @@ public class yoshi : MonoBehaviour
                 LoseLife();
             }
         }
+
+        if (col.gameObject.CompareTag("Star")){
+            SceneManager.LoadScene("Vitória");
+        }
         
 
     }
