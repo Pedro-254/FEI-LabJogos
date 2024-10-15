@@ -12,9 +12,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Fase1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/FIm.unity
+    path: Assets/Scenes/Fim.unity
     guid: a831564a0332ca0e1a830e9c5715b2f0
   - enabled: 1
     path: "Assets/Scenes/Vit\xF3ria.unity"
     guid: 52ce4053d68394694bfcc2ded0fb7655
+  - enabled: 1
+    path: Assets/Scenes/Fase2.unity
+    guid: f12343a34232c74eb91a008119cd54f4
+  - enabled: 1
+    path: Assets/Scenes/Fim2.unity
+    guid: d3864ec18cb16eb2685a1edf3817cf70
+  - enabled: 1
+    path: "Assets/Scenes/Vit\xF3riaFim.unity"
+    guid: a91218fa97d91a73ead336a29b2304bf
   m_configObjects: {}

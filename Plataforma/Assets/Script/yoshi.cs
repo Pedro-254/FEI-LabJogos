@@ -5,6 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class yoshi : MonoBehaviour
 {  
+    public string cenaV;
+    public string cenaD;
     public float Speed;
     public float JumpForce;
     public bool isjump;
@@ -43,7 +45,7 @@ public class yoshi : MonoBehaviour
         }
     }
     void LoadGameOver(){
-        SceneManager.LoadScene("FIm");
+        SceneManager.LoadScene(cenaD);
     }
 
     void Move(){
@@ -98,7 +100,7 @@ public class yoshi : MonoBehaviour
         }
 
         if (col.gameObject.CompareTag("Star")){
-            SceneManager.LoadScene("Vitória");
+            SceneManager.LoadScene(cenaV);
         }
         
 
